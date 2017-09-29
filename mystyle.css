@@ -1,0 +1,46 @@
+body {
+  background-color: #FFB6C1;
+  color: #D2691E;;
+}
+h1 {
+  color: #FAEBD7;
+  text-align: center;
+  font-family: fantasy;
+  
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 400%;
+}
+h2 {
+  color: #FAEBD7;
+  text-align: center;
+  font-family: fantasy;
+  font-style: italic;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 200%;
+}
+p {
+  
+  background-color: #ADD8E6;
+  color: #FAEBD7;
+  text-align: left;
+  font-family: arial;
+}
+
+img {
+    float: center;
+    
+	display: block;
+    margin: auto;
+    width: 40%;
+	align: center;
+	border-radius: 50%;
+	
+}
+
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+}
